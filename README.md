@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com](https://github.com/TriumphChinnah/Age-calculator-app-main)
-- Live Site URL: [surge.sh](https://tymino-age-calculator-app.surge.sh)
+- Live Site URL: [netlify.app](triumph-age-calculator-app.netlify.app)
 
 
 ### Built with
